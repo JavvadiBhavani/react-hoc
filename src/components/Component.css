@@ -1,0 +1,36 @@
+#set {
+ text-align:center,
+}
+#name {
+    display:'flex';
+    width:100%
+}
+.first {
+    display:flex;
+    width:100%
+}
+.fname {
+    float:left;
+}
+.lname {
+    float:right;
+}
+.but{
+    margin-left:92%;
+    margin-top:100px;
+    margin-bottom: 15px;
+}
+.data {
+text-align:center;
+margin:80px;
+padding-top: 100px;
+}
+.foot1{
+    border :2px solid rgb(146, 134, 134);
+    border-radius: 5px;
+    padding: 30;
+}
+.foot {
+    margin :auto;
+    padding: 70;
+}
